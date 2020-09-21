@@ -1,1 +1,1 @@
-# virgool-user-creator
+# Virgool User Creator
